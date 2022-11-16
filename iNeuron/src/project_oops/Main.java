@@ -69,6 +69,7 @@ public class Main {
 		g.permit(r);
 		g.permit(s);
 		g.permit(c);
+		System.out.println("Hello");
 		
 		/*
 		 * r.input(); r.compute(); r.display();
