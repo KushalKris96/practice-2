@@ -26,5 +26,6 @@ public class MainClass {
 		};
 		d.disp();
 		d.add(10, 20);
+		System.out.println("hello");
 	}
 }
